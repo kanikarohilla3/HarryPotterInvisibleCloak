@@ -6,7 +6,9 @@ Being a harry potter fan I always had a childhood fantasy of using an invisibili
 >*You can learn some key functions of opencv from this project.
 >*Refer a detailed Tutorial explaining the code.
 ---------------------------------------------------------------
-##Installation##
+Installation
+-------------
+
 **Clone**
 *Clone this repo to your local machine using https://github.com/kaustubh-sadekar/Invisibility_Cloak.git
 **Setup/Requirements**

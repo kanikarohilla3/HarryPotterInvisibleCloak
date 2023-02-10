@@ -15,5 +15,10 @@ The code is written in Python (Python3) C++ code will be available soon You need
 >*numpy
 >*OpenCV
 >*time
-##This is how it works##
+
+
+
+
+
+###This is how it works###
 ![gif2](https://user-images.githubusercontent.com/82534529/218004930-66b6dac5-503e-4d45-86e1-12f09d567b05.gif)
